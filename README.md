@@ -1,6 +1,6 @@
 # Bubble Sort
 
-A simple single class implementation of bubble sort in Java. The user will be prompted to input the number of elements in a list which they want to enter. The user then will choose a element to be sorted in the list. sort method works by repeatedly swapping the adjacent elements if they are in wrong order.
+A simple single class implementation of bubble sort in Java. The user will be prompted to input the number of elements in a list which they want to enter. Sort method works by repeatedly swapping the adjacent elements if they are in wrong order.
 
 ## How to use it.
 * Open a command prompt window and go to the directory where you saved the java program (BubbleSort.java).
